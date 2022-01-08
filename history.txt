@@ -1,0 +1,1490 @@
+    1  ll
+    2  ls
+    3  ls -al
+    4  cd /mnt/c
+    5  cd Dev
+    6  ls
+    7  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+    8  exit
+    9  cd Dev
+   10  nvm
+   11  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+   12  exit
+   13  cd Dev
+   14  nvm
+   15  cd
+   16  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   17  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   18  git clone https://github.com/powerline/fonts.git
+   19  ls
+   20  cd fonts
+   21  ./install.sh
+   22  echo "\ue0b0 \u00b1 \ue0a0 \u27a6 \u2718 \u26a1 \u2699"
+   23  cd
+   24  nvm
+   25  code .zshrc
+   26  git config --global user.name aljagne
+   27  git config --global user.email ajagne01@gmail.com
+   28  cp ~/.zshrc ~/.zshrc.orig
+   29  chsh -s $(which zsh)
+   30  update
+   31  source ~/.zshrc
+   32  update
+   33  git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+   34  update
+   35  ll
+   36  update
+   37  cd Dev
+   38  nvm
+   39  git clone git@github.com:aljagne/recipe-app-api.git
+   40  ..
+   41  cp -r /mnt/c/Users/ajagn/.ssh ~/.ssh
+   42  sudo cp -r /mnt/c/Users/ajagn/.ssh ~/.ssh
+   43  cd Dev
+   44  git clone git@github.com:aljagne/recipe-app-api.git
+   45  tail ~/.ssh/id_rsa.pub
+   46  cd .ssh
+   47  cat id_rsa.pub
+   48  cd
+   49  rmdir .ssh
+   50  sudo rmdir .ssh
+   51  sudo rmdir -f .ssh
+   52  sudo rmdir -rf .ssh
+   53  ls
+   54  ll
+   55  rmdir -rf .ssh
+   56  rmdir -f .ssh
+   57  rmdir -v .ssh
+   58  sudo rm -rf .ssh
+   59  ll
+   60  cp -r /mnt/c/Users/ajagn/.ssh ~/.ssh
+   61  ll
+   62  tail ~/.ssh/id_rsa.pub
+   63  sudo rm -rf .ssh
+   64  cp -r /mnt/c/Users/ajagn/.ssh ~/.ssh
+   65  tail ~/.ssh/id_rsa.pub
+   66  chmod 600 ~/.ssh/id_rsa
+   67  chmod 644 ~/.ssh/id_rsa.pub
+   68  update
+   69  git clone git@github.com:aljagne/recipe-app-api.git
+   70  update
+   71  cd
+   72  cat .zshrc
+   73  dev
+   74  cd Dev
+   75  c .zshrc
+   76  update
+   77  cd
+   78  dev
+   79  Dev
+   80  update
+   81  dev
+   82  update
+   83  dev
+   84  update
+   85  cd 
+   86  ll
+   87  cd .oh-my-zsh
+   88  cd plugins
+   89  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   90  update
+   91  ..
+   92  cd ../../
+   93  cd Code
+   94  touch install_meslo_wsl.sh
+   95  c install_meslo_wsl.sh
+   96  ./install_meslo_wsl.sh
+   97  c
+   98  cd
+   99  cd Dev
+  100  sudo apt-add-repository ppa:zanchey/asciinema
+  101  sudo apt-get update
+  102  sudo apt-get install asciinema
+  103  ll
+  104  asciinema rec
+  105  ll
+  106  cd kings-style
+  107  yas
+  108  ll
+  109  cd /tmp
+  110  ..
+  111  cd
+  112  tem
+  113  update
+  114  tmp
+  115  cat tmpnop1qumn-ascii.cast
+  116  ll
+  117  cp -r tmpnop1qumn-ascii.cast /mnt/c/Users/ajagn/Videos 
+  118  asciinema play tmpnop1qumn-ascii.cast
+  119  asciinema auth
+  120  gtop
+  121  htop
+  122  sudo apt-get install gtop
+  123  gtop
+  124  update
+  125  cd
+  126  sudo npm install gtop -g
+  127  gtop
+  128  ll
+  129  cd .config
+  130  cd asciinema
+  131  ll
+  132  c install-id
+  133  c config
+  134  update
+  135  rec terminal
+  136  exit
+  137  ll
+  138  ls
+  139  source ~/.zshrc
+  140  rec term
+  141  ll
+  142  ls -al term
+  143  ls -alG term
+  144  rm -f term
+  145  ll
+  146  asciinema play terminal
+  147  cd
+  148  update
+  149  playrec terminal
+  150  ll
+  151  mkdir Code
+  152  cd Co
+  153  cd Code
+  154  c exos.c
+  155  gcc exos.c -o exos.e
+  156  ./exos.e
+  157  time ./exos.e
+  158  gcc exos.1 -o exos1.e
+  159  gcc exos1.c -o exos1.e
+  160  time ./exos1.e
+  161  ./exos1.e
+  162  gcc exos1.c -o exos1.e
+  163  ./exos1.e
+  164  cd Code
+  165  c
+  166  tmux
+  167  q
+  168  python --version
+  169  python
+  170  cd Code
+  171  sudo apt-get update
+  172  sudo apt -y upgrade
+  173  python3 -V
+  174  sudo apt install -y python3-pip
+  175  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+  176  ls
+  177  sudo apt install -y python3-venv
+  178  git config --global user.nane "aljagne"
+  179  git config --global user.email "ajagne01@gmail.com"
+  180  git config --list
+  181  ..
+  182  cd Dev
+  183  cd kings-style
+  184  c
+  185  yas
+  186  node -V
+  187  node -version
+  188  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  189  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  190  sudo apt update && sudo apt install yarn
+  191  sudo apt-get install yarn
+  192  yarn --version
+  193  node --version
+  194  cz
+  195  zshrc
+  196  update
+  197  yas
+  198  yarn start
+  199  yarn -v
+  200  yarn start
+  201  update
+  202  yarn start
+  203  update
+  204  yarn start
+  205  yarn run
+  206  yarn
+  207  yas
+  208  cd Dev
+  209  cd kings-style
+  210  c
+  211  yarn
+  212  yas
+  213  yarn upgrade
+  214  yarn run
+  215  yarn add node-sass
+  216  sudo apt-get update
+  217  cd Code
+  218  cd digging-into-node
+  219  cd exercises
+  220  cat ex1.js
+  221  sqlite3
+  222  c
+  223  cd Code
+  224  cd digging-into-node/solutions
+  225  c
+  226  sublime.exe
+  227  sub
+  228  cd
+  229  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  230  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  231  sudo apt-get update
+  232  sudo apt-get install sublime-text
+  233  nvm ex1.js
+  234  node  ex1.js
+  235  node  ex1.js 1>/dev/null
+  236  node  ex1.js 2>/dev/null
+  237  node  ex1.js 2>/dev/null 1>&2
+  238  sublime
+  239  sublime-text
+  240  subl
+  241  ll
+  242  ls
+  243  ls -aF
+  244  ./ex1.js
+  245  cd Code
+  246  cd digging-into-node/exercises
+  247  c
+  248  ./ex1.js
+  249  ./ex1.js --hello=world
+  250  ./ex1.js --hello=world -c10
+  251  ./ex1.js
+  252  ./ex1.js --help
+  253  ./ex1.js --file=hello
+  254  ./ex1.js --file
+  255  ./ex1.js --file=hello
+  256  ./ex1.js --file=../hello
+  257  ./ex1.js --file=hello
+  258  ./ex1.js --file=/tmp/hello
+  259  ./ex1.js --file=files/hello.txt
+  260  cd Dev/kings-style/c
+  261  cd Dev/kings-style
+  262  c
+  263  ./ex1.js --file=files/hello.txt
+  264  ./ex1.js --file=files/hello.txt2
+  265  yas
+  266  history >history.txt
+  267  cd 
+  268  ssh SOHO@192.168.1.1
+  269  ssh SOHO-Tech@192.168.1.1
+  270  cd .ssh
+  271  cat id_rsa.pub
+  272  ..
+  273  ssh SOHO-Tech@192.168.1.1
+  274  pk10
+  275  p10k configure
+  276  echo 2.7.3 >.python-version
+  277  timew start hack linux
+  278  cd Dev/recipe-app-api
+  279  c
+  280  sudo apt-get update
+  281  c
+  282  docker-compose build
+  283  /usr/bin/python3 /home/aj/.vscode-server/extensions/ms-python.python-2020.6.90262/pythonFiles/pyvsc-run-isolated.py pip install -U flake8 --user
+  284  docker-compose run app sh -c "python manage.py test && flake8"
+  285  docker-compose up
+  286  python --version
+  287  python3 --version
+  288  python --version
+  289  sudo apt-get install python
+  290  python --version
+  291  python3 --version
+  292  docker-compose up
+  293  docker-compose run app sh -c "python manage.py test && flake8"
+  294  docker-compose run app
+  295  docker-compose build
+  296  docker-compose run app sh -c "python manage.py test && flake8"
+  297  docker-compose up
+  298  docker-compose build
+  299  docker-compose up
+  300  docker-compose run app sh -c "python manage.py test && flake8"
+  301  docker-compose up
+  302  docker-compose build
+  303  docker-compose up
+  304  zshrc
+  305  echo $PYTHONPATH
+  306  cd
+  307  cd /usr/bin
+  308  cd
+  309  update
+  310  docker-compose up
+  311  docker-compose build
+  312  docker-compose up
+  313  sudo apt-get update
+  314  cd Dev
+  315  git clone git@github.com:LondonAppDeveloper/recipe-app-api.git
+  316  git clone git@github.com:LondonAppDeveloper/recipe-app-api.git recipe-app-api-master
+  317  cd recipe-app-api-master
+  318  git remote
+  319  git remote remove origin
+  320  git remote
+  321  git remote add origin git@github.com:aljagne/recipe-app-api-master.git
+  322  git push origin master
+  323  c
+  324  ..
+  325  ll
+  326  ls
+  327  cd Dev
+  328  cd recipe-app-api-master
+  329  c
+  330  docker-compose up
+  331  netstat -ano | grep 8010
+  332  cd Dev
+  333  cd kings-style
+  334  c
+  335  cd Dev/kings-style
+  336  c
+  337  yas
+  338  yarn add redux-thunk
+  339  yas
+  340  cd Dev/kings-style
+  341  yas
+  342  c
+  343  yas
+  344  cd Code
+  345  vim helloworld.jave
+  346  ll
+  347  javac helloworld.jave
+  348  sudo apt update
+  349  sudo apt-get update
+  350  java -version
+  351  sudo apt install openjdk-14-jre-headless
+  352  java -version
+  353  javac helloworld.jave
+  354  java -version
+  355  sudo apt install default-jdk
+  356  javac -version
+  357  javac helloworld.jave
+  358  pip install -U autopep8 --user
+  359  pip3 install -U autopep8 --user
+  360  cd Dev/multi-site
+  361  sudo npm install -g @angular/cli
+  362  ng new angular-frontend
+  363  cd angular-frontend
+  364  ng serve
+  365  cd Dev/multi-site
+  366  cd angular-frontend
+  367  c
+  368  ng serve
+  369  ng g c nav
+  370  c
+  371  ng serve
+  372  ng g c posts
+  373  ng serve
+  374  ip addr | grep eth0
+  375  cd 
+  376  lsb_release -a
+  377  pwd
+  378  sudo apt update && sudo apt -y upgrade
+  379  sudo apt install xrdp
+  380  sudo apt install xfce4
+  381  sudo apt install xfce4-goodies
+  382  sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak
+  383  sudo sed -i 's/3389/3390/g' /etc/xrdp/xrdp.ini
+  384  sudo sed -i 's/max_bpp=32/#max_bpp=32\nmax_bpp=128/g' /etc/xrdp/xrdp.ini
+  385  sudo sed -i 's/xserverbpp=24/#xserverbpp=24/nxserverbpp=128/g' /etc/xrdp/xrdp.ini
+  386  sudo sed -i 's/xserverbpp=24/#xserverbpp=24\nxserverbpp=128/g' /etc/xrdp/xrdp.ini
+  387  echo xfce4-session > ~/.xsession
+  388  sudo nano /etc/xrdp/startwm.sh
+  389  sudo /etc/init.d/xrdp start
+  390  pwd
+  391  ip addr | grep eth0
+  392  sudo apt install firefox
+  393  ip addr | grep eth0
+  394  $remoteport = bash.exe -c "ip addr | grep -Ee 'inet.*eth0'"
+  395  $found = $remoteport -match '\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}';
+  396  if( $found ){
+  397  myip
+  398  ip addr | grep eth0
+  399  ip addr 
+  400  ping google.com
+  401  ip addr | grep eth0
+  402  ip addr 
+  403  myip
+  404  clear
+  405  docker ps-a
+  406  docker ps -a
+  407  node - v
+  408  node -version
+  409  node -v
+  410  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+  411  mango --version
+  412  brew
+  413  which bin
+  414  zshrc
+  415  update
+  416  brew install mongo
+  417  echo bin
+  418  echo $PATH
+  419  cd
+  420  cd /usr
+  421  cd local
+  422  cd bin
+  423  cd
+  424  update
+  425  eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+  426  update
+  427  brew install gcc
+  428  brew install mangodb
+  429  sudo apt-get install build-essential
+  430  sudo brew install mangodb
+  431  brew install mangodb
+  432  brew install mongodb
+  433  sudo apt-get update
+  434  brew install mongodb
+  435  mongodb --version
+  436  brew install mongodb
+  437  brew tap mongodb/brew
+  438  mongo --version
+  439  brew install mongodb
+  440  brew install mongodb-community@4.0 
+  441  zshrc
+  442  echo 'export PATH="/home/linuxbrew/.linuxbrew/opt/mongodb-community@4.0/bin:$PATH"' >> ~/.zshrc
+  443  update
+  444  mongo --version
+  445  sudo mongo --version
+  446  mongo --version
+  447  mongod --version
+  448  sudo mongod --version
+  449  update
+  450  mongo --version
+  451  update
+  452  mongo --version
+  453  sudo mongo --version
+  454  update
+  455  mongo --version
+  456  sudo mongo --version
+  457  brew tap mongodb/brew
+  458  brew install mongodb-community
+  459  mongo --version
+  460  mongod --version
+  461  sudo mongo --version
+  462  mongo --help
+  463  sudo mongo --help
+  464  sudo npm install -g turbo-cli
+  465  npm install -g npm to update
+  466  sudo npm install -g npm to update
+  467  sudo mongod --help
+  468  brew services start mongodb-community
+  469  apt-get install gnupg -y
+  470  sudo apt-get install gnupg -y
+  471  wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | apt-key add ------BEGIN PGP PUBLIC KEY BLOCK-----
+  472  Version: GnuPG v1.4.11 (GNU/Linux)
+  473  mQINBFrXrqYBEACscLj2qgPpHBCQtgW1Yh29Ddgv6jssyWLAYmj0qngFLKoQMMbt
+  474  SNBZylIKxfS+pUD9J5xfRZwfZOmtMIOFVWS9tcpeQXsiwC126tRyoFCIpoTmH7+R
+  475  8/FfPrCYyXLP+ftEZfRV60wTwr5drR0S5pVIST3oaXXGkHkFC35U++udUG2Tl4Cs
+  476  OPSCp1tsK6UOTjHFDH8PnasImJgD37QC8OOMIJS0jCtDZywJW6OCdpIRbuTWPK3P
+  477  P48NLwGUJHixhVCmOgPPu9kDAfG3wLxiN85S2UbaaSXsdA4fF4SSwWNHTIYAg0yT
+  478  xGepVyW4lkfcvng4jva24rQ9j1cm1b7bWeOkMH1aAcSyFzKCeNCNxbVOYVrcWNP4
+  479  zrSUvsTKhwX8rPFMq9LkcKirDL9bRILvn/24VU6NdJfGbRjR6+Q7ooj7hYKLXtO5
+  480  q0Q4nhjigpTWIoU6jdfbM9YqpKSELNnkDRAU+bRYSrNaFuizYgDZQvcVT6gbq26f
+  481  JbgihoeJogEfim3kqRRJ3EUhE+EaVijl9iLDKkpurod26P2QSq9RKSuOCeauPjQv
+  482  3BIiEMXco8O3v8W1y4TbnSQ3d28W9pN28IgAhmN2EU2sKqWPzNeG0V+L6mE5pA4o
+  483  nD3z3JRpxAUFw08+9LnLRZ4D1u54OrHADsU8UpYZJCm1xw6T0e4dlxW6rQARAQAB
+  484  tDdNb25nb0RCIDQuMiBSZWxlYXNlIFNpZ25pbmcgS2V5IDxwYWNrYWdpbmdAbW9u
+  485  Z29kYi5jb20+iQI+BBMBAgAoBQJa166mAhsDBQkJZgGABgsJCAcDAgYVCAIJCgsE
+  486  FgIDAQIeAQIXgAAKCRBLfFSaBY+LaxdXEACJMvkgr3Nt2xme9/6brGMbrEy6mQn7
+  487  DZP98DXuS0tWvO5vkEO5IfRIvzG3zA0pATSBDVA0BvGnebQrGXZZ7Xfh0gz+zxlt
+  488  TXv4eCyb6T4gRJuuQSFPTyDnZ3MbPESqj0UpIALmcLDJ01nqvbNPKxx5r08XQOtE
+  489  i44Kcwc1Px5cPcYP9nmpDNLZjz3gkTm+zBygdE9beP02qXq7WcyghFmQZoLBW53e
+  490  TqNPnMrrm5+6vgq+r/ttyiYTo7Zw8MrifN5okevzB0JhhSAW9g+4ZOp1QYbV8u8V
+  491  pksJQDOIaBWIw8zosIQJTCVyd4hOyl8Ib2s2R0/grT51RgLYCNbUG6WTpKGgYBtr
+  492  Mng10gozyDrnA3B+RiDx5uq+dNzuuMXWMit2nbcdanXdKNkaPmC6WVeU0rG5K1Wz
+  493  jQMDvAInTszLcqH6zfEsjCoXj0z8UwcC4jahFDNMDBk3OhjMSL+fnvIhW84nKVHf
+  494  AWL5jjSQdkrM/M8QRpRqls5apuIYHQwo6Oyd2Nk0n9T/GOMJ1jilxiPw9ihusf+k
+  495  DfU0JI7T8fgxIv/wHNXUg7FOaaDJIfgGlCPUgtsNUDZZ9lFq+Zc5H8Wff3LNo7Se
+  496  2xnzzoy2e+C3tsxAmVUTs+q0lyIzEK24lf71cp074KVV7rIYBELYtO2hAlJYjXJU
+  497  bscTTjCKLf9leA==
+  498  =UXPP
+  499  brew uninstall mongodb-community
+  500  brew uninstall mongodb-community@4.0 
+  501  brew remove mongodb-community@4.0 
+  502  /bin/bash -c "$(curl -fsSL
+  503  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+  504  zshrc
+  505  update
+  506  cd Dev
+  507  c ~/.zprofile
+  508  update
+  509  clear
+  510  history
+  511  cd Dev
+  512  npx create-next-app
+  513  cd auto-commercant
+  514  c
+  515  yarn dev
+  516  yarn add sqlite
+  517  yarn add sqlite3
+  518  yarn add axios
+  519  yarn add @material-ui/core
+  520  yarn add @material-ui/icons
+  521  yarn add swr
+  522  yarn dev
+  523  yarn add --dev typescript @types/node
+  524  yarn dev
+  525  cd Dev/kings-style
+  526  c
+  527  code .
+  528  sudo apt-get update && apt-get upgrade
+  529  sudo apt-get upgrade
+  530  zshrc
+  531  sudo apt-get install code
+  532  code .
+  533  cd
+  534  cat /usr/local/bin/code
+  535  cat /usr/local/bin/
+  536  cd /usr/local/bin/
+  537  nano .zshrc
+  538  cd
+  539  ll
+  540  nano .zshrc
+  541  source ~/.zshrc
+  542  cd Dev/kings-style
+  543  code .
+  544  code
+  545  c
+  546  sudo apt-get install code .
+  547  yas
+  548  yarn start
+  549  yarn run
+  550  yarn start
+  551  c
+  552  code
+  553  code .
+  554  ..
+  555  Dev
+  556  ll
+  557  clear
+  558  cd Dev/kings-style
+  559  c
+  560  code .
+  561  code
+  562  code.exe
+  563  code
+  564  code .
+  565  sudo apt-get install vscode
+  566  code .
+  567  vscode
+  568  cd
+  569  sudo apt-get dist-upgrade
+  570  sudo apt-get autoremove
+  571  sudo apt-get update
+  572  ..
+  573  code Dev/kings-style
+  574  echo $PATH code
+  575  cd 
+  576  history >history.txt
+  577  history > history.txt
+  578  echo 'export PATH="/mnt/c/Users/My\ User/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code .:$PATH"' >> ~/.zshrc
+  579  source ~/.zshrc
+  580  code Dev/kings-style
+  581  code .
+  582  echo 'export PATH="/mnt/c/Users/My\ User/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code:$PATH"' >> ~/.zshrc
+  583  source ~/.zshrc
+  584  code .
+  585  code Dev/kings-style
+  586  echo $PATH code
+  587  echo 'export PATH="/mnt/c/Users/
+  588  echo 'export PATH="/mnt/c/Users/ajagn/AppData/Local/Programs/Microsoft VS Code:$PATH"' >> ~/.zshrc
+  589  code Dev/kings-style
+  590  source ~/.zshrc
+  591  code Dev/kings-style
+  592  zshrc
+  593  nano .zshrc
+  594  nano ~/.zshrc
+  595  source ~/.zshrc
+  596  echo $PATH code
+  597  echo $PATH code .
+  598  /mnt/c/Users/My\ User/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code .
+  599  /mnt/c/Users:\ajagn/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code .
+  600  /mnt/c/Users/ajagn/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code .
+  601  cd
+  602  /mnt/c/Users/ajagn/AppData/Local/Programs/Microsoft\ VS\ Code/bin/code .
+  603  source ~/.zshrc
+  604  code .
+  605  source ~/.zshrc
+  606  code Dev/kings-style
+  607  cd Dev/kings-style
+  608  code
+  609  yas
+  610  cd 
+  611  sudo apt-get install fonts-powerline
+  612  sudo apt-get update
+  613  cd Dev/kings-style
+  614  code
+  615  cls
+  616  clear
+  617  ls
+  618  ls -aF
+  619  clear
+  620  ls
+  621  gcc exo2.c -o exo2.e
+  622  ./exo2.e
+  623  gcc exo1.c -o exo1.e
+  624  ./exo1.e
+  625  gcc exo1.c -o exo1.o
+  626  ./exo1.o
+  627  gcc exo1.c -o exo1.o
+  628  gcc exo1.c -o exo1.exe
+  629  ./exo1.e
+  630  ./exo1.exe
+  631  cd Dev/aljagne
+  632  code
+  633  git pull  origin master
+  634  ..
+  635  git clone git@github.com:aljagne/aljagne.git
+  636  cd Dev
+  637  git clone git@github.com:aljagne/aljagne.git
+  638  code 
+  639  cd aljagne
+  640  code 
+  641  git status
+  642  git add .
+  643  git commit -a "added activity stats and updeted README"
+  644  git commit -m "added activity stats and updeted README"
+  645  git push origin master
+  646  git add .
+  647  git commit -m "remove activity stats and updeted README"
+  648  git push origin master
+  649  git status
+  650  clear
+  651  ./corrigé\ Ex3\ TP4_Prog2_2020.exe
+  652  clear
+  653  ls
+  654  gcc corrigé\ Ex6\ TP4_Prog2_2020.c -o corrigé\ Ex6\ TP4_Prog2_2020
+  655  ./corrigé\ Ex6\ TP4_Prog2_2020
+  656  make
+  657  ls
+  658  clang -c main.c
+  659  clang -c fonction.c
+  660  clang main.o fonction.o
+  661  ./a.out
+  662  make
+  663  code .wlsconfig
+  664  clear
+  665  suodo apt-get update
+  666  clear
+  667  sudo apt-get update
+  668  c
+  669  cd Dev/kings-style
+  670  code .
+  671  code 
+  672  yarn start
+  673  clear
+  674  yarn start
+  675  history > history.txt
+  676  yarn upgrade
+  677  sudo apt-get update && apt-get upgrade
+  678  yarn upgrade
+  679  sudo apt-get update && apt-get upgrade
+  680  yarn start
+  681  yarn run
+  682  yarn-upgrade-all
+  683  yarn upgrade-all
+  684  yarn start
+  685  clear
+  686  yarn start
+  687  clear
+  688  sudo apt-get update && apt-get upgrade
+  689  yarn start
+  690  yarn upgrade-all
+  691  yarn-upgrade-all
+  692  yarn update
+  693  import React from 'react';
+  694  import { Route } from 'react-router-dom';
+  695  import { connect } from 'react-redux';
+  696  import { fetchCollectionsStartAsync } from '../../redux/shop/shop.actions';
+  697  import CollectionsOverviewContainer from '../../components/collections-overview/collections-overview.container';
+  698  import CollectionPageContainer from '../collection/collection.container';
+  699  class ShopPage extends React.Component {
+  700  yarn start
+  701  sudo yarn start
+  702  sudo apt-get update 
+  703  sudo apt-get upgrade
+  704  yas
+  705  sudo apt-get update 
+  706  sudo apt-get upgrade
+  707  sudo apt-get clean
+  708  clear
+  709  cd Dev/kings-style
+  710  code
+  711  yas
+  712  clear
+  713  yas
+  714  clear
+  715  yas
+  716  clear
+  717  sudo apt-get update && apt-get upgrade
+  718  clear
+  719  sudo apt-get upgrade
+  720  cd Dev
+  721  npm start
+  722  npm
+  723  npm start
+  724  clear
+  725  npm install
+  726  gatsby develop
+  727  npm install
+  728  npm audit fix
+  729  gatsby develop
+  730  exit
+  731  cd DESIGN_TO_REALITY_TWO-master
+  732  code .
+  733  git clone git@github.com:aljagne/portfolio.git
+  734  cd portfolio
+  735  code .
+  736  gatsby --version
+  737  npm install --global gatsby
+  738  ls
+  739  ll
+  740  npm install
+  741  npm audit fix
+  742  npm install --global gatsby
+  743  sudo npm install --global gatsby
+  744  gatsby develop
+  745  sudo gatsby develop
+  746  gatsby clean
+  747  yarn 
+  748  sudo gatsby develop
+  749  clear
+  750  npx gatsby nex .
+  751  cd Dev
+  752  npx gatsby new gatsby-strapi-portfolio
+  753  cd gatsby-strapi-portfolio
+  754  code .
+  755  npm run develop
+  756  npm run develop
+  757  clear
+  758  gatsby develop
+  759  cd Dev
+  760  mkdir React-Projects
+  761  cd React-Projects
+  762  nvù
+  763  nvl$
+  764  nvm install
+  765  nvm install 12.19.0
+  766  nvm use 12.19.0
+  767  npx reate-react-app new-service-site
+  768  ls
+  769  ll
+  770  yarn start
+  771  clear
+  772  yarn start
+  773  yas
+  774  clear
+  775  yas
+  776  yarn add react-icons
+  777  yarn add react-scroll
+  778  yas
+  779  cd Dev/React-Projects
+  780  ls
+  781  npx reate-react-app new-service-site
+  782  sudo npx reate-react-app new-service-site
+  783  node -v
+  784  npm -v
+  785  sudo npm install -g npm@latest
+  786  sudo npx reate-react-app new-service-site
+  787  npm reate-react-app new-service-site
+  788  npm install -g reate-react-app new-service-site
+  789  nvm
+  790  nvm --version
+  791  sudo apt-get update
+  792  npm cache clean -f
+  793  npm install -g n
+  794  $ npx reate-react-app new-service-site
+  795  sudo npx reate-react-app new-service-site
+  796  sudo npx create-react-app new-service-site
+  797  ls
+  798  cd new-service-site
+  799  code .
+  800  git remote add origin git@github.com:aljagne/new-service-site.git
+  801  git status
+  802  code .
+  803  yarn add styled-components
+  804  yarn add react-router-dom
+  805  code .
+  806  yas
+  807  yasµ
+  808  yas
+  809  npm install -g gatsby-cli
+  810  clear
+  811  npm install -g babel-cli
+  812  yarn develop
+  813  npm install
+  814  npm run develop
+  815  yarn
+  816  gatsby develop
+  817  clear
+  818  gatsby develop
+  819  tail history
+  820  history
+  821  clear
+  822  yarn && yarn develop
+  823  npm run develop
+  824  yarn develop
+  825  yas
+  826  myip
+  827  clear
+  828  tmux
+  829  echo Hello World!
+  830  clear
+  831  exit
+  832  clear
+  833  ps -ef | grep tns
+  834  tmux
+  835  sudo apt-get update
+  836  ls /fake /etc/ppp &> all.txt
+  837  cat all.txt
+  838  tr 'a-z' 'A-Z' < all.txt > Newall.txt
+  839  cat Newall.txt
+  840  xargs ls
+  841  sudo apt-get update && apt-get upgrade
+  842  sudo apt-get upgrade
+  843  sudo apt-get update
+  844  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  845  sudo apt-get update
+  846  npm install -g firebase-tools
+  847  firebase login
+  848  firebase login:ci
+  849  set "NODE_TLS_REJECT_UNAUTHORIZED=0"
+  850  firebase login
+  851  firebase login --no-localhost
+  852  firebase init aj-hosting
+  853  firebase init 
+  854  firebase serve
+  855  firebase deploy
+  856  pstree
+  857  top
+  858  top -c
+  859  jobs
+  860  id
+  861  ls -l
+  862  npm install -g firebase-tools
+  863  firebase login --no-localhost
+  864  firebase init hosting
+  865  firebave serve
+  866  firebase serve
+  867  firebase deploy
+  868  git status
+  869  cd aj-hosting
+  870  git status
+  871  git push origin master
+  872  firebase login --no-localhost
+  873  firebase init hosting
+  874  firebase deploy
+  875  ls
+  876  ./Main.o
+  877  ./Main.exe
+  878  ls
+  879  cd "/mnt/c/Users/ajagn/OneDrive/Desktop/TP Programation 2/TP 5"
+  880  ./"Xo_3.exe" 
+  881  ls
+  882  cd "/mnt/c/Users/ajagn/OneDrive/Desktop/TP Programation 2/TP 5"
+  883  ./"Xo_2.exe" undefined
+  884  ls
+  885  ls 
+  886  cd dev
+  887  git clone https://github.com/aljagne/my-static-web-app
+  888  git clon git@github.com:aljagne/my-static-web-app.git
+  889  git clone git@github.com:aljagne/my-static-web-app.git
+  890  cd my-static-web-app
+  891  code
+  892  cd vue-app
+  893  npm run serve
+  894  npm install
+  895  clear
+  896  cd
+  897  gcc GTP01_TP4\ Exe1.o SMI_IntNum.o -o TP3_Exe1.e -lm
+  898  gcc GTP01_TP4\ Exe1.o SMI_IntNum.o -o TP4_Exe1.e -lm
+  899  ./TP4_Exe1.e
+  900  yarn --version\n
+  901  cd
+  902  mkdir Iot
+  903  cd Iot
+  904  git clone git@github.com:bonitoo-io/iot-center-v2.git
+  905  ls
+  906  cd "/mnt/c/Users/ajagn/OneDrive/Desktop/TP Programation 2/TP_6"
+  907  ./"Xo_2.exe" 
+  908  gcc -c *.c
+  909  ls
+  910  gcc GTP01\ TP4\ Exe2.o SMI_IntNum.o -o GTP01\ TP4\ Exe2.e
+  911  ls
+  912  gcc GTP01_TP4_Exe2.o SMI_IntNum.o -o GTP01_TP4_Exe2.e
+  913  gcc -c *.c
+  914  ls
+  915  gcc GTP01_TP4_Exe2.o SMI_IntNum.o -o GTP01_TP4_Exe2.e
+  916  gcc GTP01_TP4_Exe2b.o SMI_IntNum.o -o GTP01_TP4_Exe2b.e
+  917  ls
+  918  gcc GTP01_TP4_Exe2b.o SMI_IntNum.o -o GTP01_TP4_Exe2b.e -lm
+  919  gcc GTP01_TP4_Exe2.o SMI_IntNum.o -o GTP01_TP4_Exe2.e -lm
+  920  ./GTP01_TP4_Exe2.e
+  921  
+  922  clear
+  923  history
+  924  
+  925  history
+  926  
+  927  
+  928  ls
+  929  dev
+  930  cd dev
+  931  cd ..
+  932  mkdir Dapp-Crypto
+  933  cd Dapp-Crypto
+  934  
+  935  echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >>! ~/.zshrc
+  936  p10k configure
+  937  echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >>! ~/.zshrc
+  938  cd Dapp-Crypto
+  939  cd Dapp_Training
+  940  cd inbox
+  941  p10k configure
+  942  yarn --version\n
+  943  npm init
+  944  ls
+  945  npm init
+  946  npm install webpack webpack-cli webpack-dev-server webpack-marge --seve-dev
+  947  sudo npm install webpack webpack-cli webpack-dev-server webpack-marge --seve-dev
+  948  history
+  949  history > history.txt
+  950  sudo apt-get update
+  951  sudo npm install webpack webpack-cli webpack-dev-server webpack-marge --seve-dev
+  952  npm audit fix
+  953  npm audit
+  954  npm audit fix
+  955  npm install -g jshint
+  956  npm install jshint
+  957  npm install clean-webpack-plugin copy-webpack-plugin mini-css-extract-plugin --save-dev
+  958  npm start
+  959  npm run build
+  960  npm start
+  961  npm run build
+  962  
+  963  echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >>! ~/.zshrc
+  964  sudo apt update && sudo apt upgrade
+  965  sudo apt upgrade
+  966  sudo dpkg --configure -a
+  967  sudo apt-get install -f\n
+  968  sudo apt remove package_name\n
+  969  sudo add-apt-repository ppa:kelleyk/emacs\n
+  970  sudo ppa-purge ppa:mc3man/trusty-media
+  971  sudo apt-get install ppa-purge
+  972  sudo apt-get update
+  973  sudo add-apt-repository --remove ppa:mc3man/trusty-media\n
+  974  sudo apt-get update\n
+  975  lsb_release -a
+  976  sudo apt-add-repository -r ppa:certbot/certbot\n
+  977  sudo apt update
+  978  curl -o- https://raw.githubusercontent.com/vinyll/certbot-install/master/install.sh | bash\n
+  979  sudo apt update
+  980  sudo add-apt-repository ppa:certbot/certbot
+  981  sudo apt install python-certbot-nginx
+  982  sudo apt install certbot python3-certbot-nginx
+  983  sudo apt update
+  984  sudo add-apt-repository ppa:kelleyk/emacs\n
+  985  sudo apt update\n
+  986  sudo apt install emacs26\n
+  987  sudo apt-get install git ripgrep
+  988  sudo apt-get install fd-find -Y
+  989  sudo apt-get install fd-find Y
+  990  sudo apt-get install fd-find 
+  991  git clone https://github.com/hlissner/doom-emacs ~/.emacs.d\n~/.emacs.d/bin/doom install
+  992  echo "export PATH=”$HOME/.emacs.d/bin:$PATH”" >> ~/.zshrc
+  993  ls
+  994  cd Dapp-Crypto
+  995  cd Blockchain\ Nanodegree
+  996  mkdir workspace
+  997  cd workspace
+  998  node -v
+  999  touch newFile.js
+ 1000  vim newFile.js
+ 1001  ls
+ 1002  node newFile.js
+ 1003  npm install crypto-js\n
+ 1004  npm install -g npm
+ 1005  ls
+ 1006  cat package-lock.json
+ 1007  mkdir project
+ 1008  cd po
+ 1009  cd project
+ 1010  vim hashing.js
+ 1011  node hashing.js
+ 1012  vim hashing.js
+ 1013  node hashing.js
+ 1014  vim hashing.js
+ 1015  node hashing.js
+ 1016  vim hashing.js
+ 1017  node hashing.js
+ 1018  npm start
+ 1019  
+ 1020  cd Dev/Floema
+ 1021  code .
+ 1022  npm start
+ 1023  npm install postcss-loader babel-loader --save-dev
+ 1024  npm audit fix --force
+ 1025  npm audit 
+ 1026  npm install jshint webpack webpack-cli webpack-dev-server webpack-merge --save-dev
+ 1027  npm audit
+ 1028  npm install jshint webpack webpack-cli webpack serve webpack-merge --save-dev
+ 1029  npm install webpack serve --save-dev
+ 1030  npm install css-loader --save-dev
+ 1031  npm audit
+ 1032  npm install css-loader --save-dev
+ 1033  npm install sass-loader --save-dev
+ 1034  npm install file-loader --save-dev
+ 1035  npm install sass --save-dev
+ 1036  npm start
+ 1037  cd
+ 1038  cd Documents
+ 1039  ls
+ 1040  cd ..
+ 1041  cp Floema ~/Documents
+ 1042  cp -r Floema ~/Documents
+ 1043  ls
+ 1044  cd Floema
+ 1045  code .
+ 1046  npm start
+ 1047  npm install image-minimizer-webpack-plugin --save-dev
+ 1048  npm run build
+ 1049  npm build
+ 1050  npm run build
+ 1051  npm install webpack-cli --save-dev
+ 1052  npm run build
+ 1053  npm install imagemin-optipng --save-dev
+ 1054  npm run build
+ 1055  npm install imagemin-gifsicle imagemin-jpegtran imagemin-optipng imagemin-svgo --save-dev\n
+ 1056  npm audit fix
+ 1057  npm audit fix --force
+ 1058  sudo npm audit fix --force
+ 1059  npm run build
+ 1060  npm start
+ 1061  clear
+ 1062  npm start
+ 1063  npm install glslify-loader --save-dev
+ 1064  npm outdated
+ 1065  npm install -g npm-check-updates\n
+ 1066  ncu -u\n
+ 1067  npm update
+ 1068  npm install\n
+ 1069  npm outdated
+ 1070  npm audit fix --force
+ 1071  npm audit fix
+ 1072  npm audit fix\n
+ 1073  npm audit fix --force
+ 1074  npm outdated
+ 1075  npm install -g npm-check-updates\n
+ 1076  npm install eslint eslint-config-standard eslint-loader eslint-plugin-import eslint-plugin-promise eslint-plugin-standard --save-dev
+ 1077  npm audit
+ 1078  npm install npm install trim-newlines --save-dev
+ 1079  npm audit fix
+ 1080  npm audit fix --force
+ 1081  npm outdated
+ 1082  npm set audit false
+ 1083  npm start
+ 1084  
+ 1085  echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >>! ~/.zshrc
+ 1086  sudo echo 'POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true' >>! ~/.zshrc
+ 1087  cd
+ 1088  cd Documents/
+ 1089  cd Floema
+ 1090  code .
+ 1091  typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
+ 1092  npm start
+ 1093  npm run build
+ 1094  npm install terser-webpack-plugin --save-dev
+ 1095  npm run build
+ 1096  npm install imagenin --save-dev
+ 1097  npm run build
+ 1098  cd ..
+ 1099  cd Floema
+ 1100  npm install express --save
+ 1101  npm fund
+ 1102  npm run backend:build
+ 1103  npm run back-development
+ 1104  npm install nodemon --save
+ 1105  npm run back-development
+ 1106  npm start
+ 1107  npm install -g concurrently
+ 1108  npm start
+ 1109  npm install jade pug --save
+ 1110  npm start
+ 1111  
+ 1112  cd
+ 1113  cd Do
+ 1114  cd Documents
+ 1115  git clone git@github.com:aljagne/ajsboilerplate.git
+ 1116  ls
+ 1117  cp -r Floema ajsboilerplate
+ 1118  ls
+ 1119  cd ajsboilerplate
+ 1120  git add .
+ 1121  git commit -m "added first parameters to the boiler"
+ 1122  git push origin master
+ 1123  cd ..
+ 1124  cd  Floema
+ 1125  code .
+ 1126  ~/.p10k.zsh.
+ 1127  cd
+ 1128  ~/.p10k.zsh.
+ 1129  code . .zshrc
+ 1130  clear
+ 1131  cd 
+ 1132  cd Documents/Floema
+ 1133  c
+ 1134  ls
+ 1135  cd
+ 1136  cat .zshrc
+ 1137  nrs
+ 1138  npm start
+ 1139  sudo kill -9 $(sudo lsof -t -i:8081)
+ 1140  npm start
+ 1141  cd
+ 1142  cd Documents/Floema
+ 1143  c
+ 1144  npm start
+ 1145  npm install dotenv --save
+ 1146  npm install @prismicio/client prismic-dom --save
+ 1147  npm start
+ 1148  cd
+ 1149  cd Documents/Floema
+ 1150  c
+ 1151  npm start
+ 1152  cd
+ 1153  cd Documents/Floema
+ 1154  c
+ 1155  npm start
+ 1156  cd
+ 1157  cd Documents/Floema
+ 1158  c
+ 1159  npm start
+ 1160  cd
+ 1161  sudo apt-get update\n
+ 1162  cd Documents/Floema
+ 1163  clear
+ 1164  c
+ 1165  npm start
+ 1166  cd
+ 1167  cd Documents/Floema
+ 1168  c
+ 1169  npm start
+ 1170  lsof -i :4000 -t
+ 1171  lsof -i:40000
+ 1172  kill $(lsof -t -i:40000)
+ 1173  sudo lsof -i:4000
+ 1174  kill $(lsof -t -i:4000)
+ 1175  lsof -i:4000
+ 1176  lsof -i tcp:4000
+ 1177  npm start
+ 1178  
+ 1179  cd
+ 1180  cd Documents/Floema
+ 1181  c
+ 1182  npm start
+ 1183  history > history.txt
+ 1184  npm install -g npm-check-updates\n
+ 1185  npm install -g npm-check-updates
+ 1186  ncu -u\n
+ 1187  npm update
+ 1188  npm install
+ 1189  npm outdated
+ 1190  npm start
+ 1191  clear
+ 1192  cd
+ 1193  cd Documents/Floema
+ 1194  clear
+ 1195  c
+ 1196  npm start
+ 1197  clear
+ 1198  npm start
+ 1199  cd
+ 1200  clear
+ 1201  cd 
+ 1202  cd Documents/Floema
+ 1203  c
+ 1204  npm start
+ 1205  cd
+ 1206  cd Documents/Floema
+ 1207  c
+ 1208  npm start
+ 1209  cd
+ 1210  cd Documents/Floema
+ 1211  code
+ 1212  npm start
+ 1213  cd
+ 1214  sh -ci "$(curl -fsSL https://storage.googleapis.com/flow-cli/install.sh)"\n
+ 1215  vim .bashrc
+ 1216  vim .zshrc
+ 1217  mkdir Flowdeveloper
+ 1218  cd Flowdeveloper
+ 1219  sh -ci "$(curl -fsSL https://storage.googleapis.com/flow-cli/install.sh)"\n
+ 1220  flow version
+ 1221  vim .zshrc
+ 1222  cd
+ 1223  vim .zshrc
+ 1224  update
+ 1225  cd Flowdeveloper
+ 1226  flow version
+ 1227  flow cadence install-vscode-extension
+ 1228  cd
+ 1229  cd Documents/Floema
+ 1230  c
+ 1231  npm start
+ 1232  yarn
+ 1233  yarn develop
+ 1234  yarn dev
+ 1235  sudo apt update
+ 1236  wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+ 1237  echo "deb [ arch=amd64,arm64 ]\nhttps://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+ 1238  sudo apt-get update
+ 1239  sudo apt-get install -y mongodb-org
+ 1240  echo "deb [ arch=amd64,arm64 ]\nhttps://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+ 1241  echo "deb [ arch=amd64,arm64 ]\nhttps://repo.mongodb.org/apt/ubuntu focal/mongodb-org/5.0 multiverse"
+ 1242  sudo tee /etc/apt/sources.list.d/mongodb-org-5.0.list
+ 1243  sudo apt-get update
+ 1244  sudo apt-get install -y mongodb-org
+ 1245  mongod --version
+ 1246  sudo apt-mark hold libc6
+ 1247  sudo apt-get install -y mongodb-org
+ 1248  sudo service mangobd start
+ 1249  sudo service mongobd start
+ 1250  yarn dev
+ 1251  sudo apt-get install -y mongodb
+ 1252  mongod --version
+ 1253  sudo service mongobd start
+ 1254  sudo apt-mark hold libc6
+ 1255  sudo service mongod start
+ 1256  sudo service mongodb start
+ 1257  yarn dev
+ 1258  sudo service mongodb start
+ 1259  yarn dev
+ 1260  sudo yarn dev
+ 1261  yarn 
+ 1262  sudo yarn dev
+ 1263  firebase init hosting
+ 1264  firebase serve
+ 1265  firebase deploy
+ 1266  firebase serve
+ 1267  firebase init hosting
+ 1268  firebase serve
+ 1269  firebase init hosting
+ 1270  firebase serve
+ 1271  firebase deploy
+ 1272  firebase serve
+ 1273  firebase init hosting
+ 1274  firebase serve
+ 1275  sudo apt-get update
+ 1276  firebase serve
+ 1277  firebase deploy
+ 1278  npm install -g firebase-tools
+ 1279  firebase deploy
+ 1280  npx hardhat run scripts/run.js
+ 1281  npx hardhat run scripts/deploy.js --network localhost
+ 1282  
+ 1283  firebase serve
+ 1284  firebase deploy
+ 1285  cd Dev/Github
+ 1286  node -v
+ 1287  npm -v
+ 1288  sudo npm install -g ionic.cli
+ 1289  sudo npm install -g @ionic/cli
+ 1290  sudo npm install -g npm
+ 1291  npm -v
+ 1292  ionic start
+ 1293  cd vue-project
+ 1294  code .
+ 1295  npm run start
+ 1296  npm run serve
+ 1297  gem install shopify-cli\n
+ 1298  sudo gem install shopify-cli\n
+ 1299  shopify version\n
+ 1300  npm i -g @sanity/cli 
+ 1301  cd workspace
+ 1302  ls
+ 1303  cd workspace
+ 1304  mkdir Workshop-space
+ 1305  cd Workshop-space
+ 1306  git clon git@github.com:sanity-io/editorexperience-2021.git
+ 1307  git clone git@github.com:sanity-io/editorexperience-2021.git
+ 1308  ls
+ 1309  cd editorexperience-2021
+ 1310  npm i -g @sanity/cli
+ 1311  npm install -g npm@8.1.1
+ 1312  npm i -g @sanity/cli
+ 1313  code .
+ 1314  clear
+ 1315  sudo add-apt-repository ppa:ansible/ansible
+ 1316  sudo apt-get update\n
+ 1317  ls
+ 1318  find ansible
+ 1319  cd /
+ 1320  cd home
+ 1321  cd /
+ 1322  cd root
+ 1323  cd etc
+ 1324  cd
+ 1325  mkdir ansible
+ 1326  ls
+ 1327  cd ansible
+ 1328  cd ..
+ 1329  code ansible
+ 1330  sudo apt-get update\n
+ 1331  sudo apt install ca-certificates\n
+ 1332  ansible --version
+ 1333  sudo apt-get update\n
+ 1334  sudo apt install software-properties-common\n
+ 1335  apt-get install ansible
+ 1336  sudo apt-get install ansible
+ 1337  ls
+ 1338  cd
+ 1339  ansible --version
+ 1340  code testbook.yml
+ 1341  ansible playbook testbook.yml --connection=local\n
+ 1342  sudo apt-get update\n
+ 1343  sudo apt-get upgrade\n
+ 1344  ls
+ 1345  cd Dev
+ 1346  npx create-next-app
+ 1347  nvm --version\n
+ 1348  nvm ls\n
+ 1349  nvm ls-remote\n
+ 1350  nvm install v12.22.7
+ 1351  nvm --version\n
+ 1352  node -v
+ 1353  npx create-next-app
+ 1354  cd discover-coffee-stores
+ 1355  yarn dev
+ 1356  code .
+ 1357  yarn dev -- -p 4000
+ 1358  yarn dev -p 4000
+ 1359  yarn dev
+ 1360  ls
+ 1361  yarn dev
+ 1362  sudo yarn dev
+ 1363  yarn dev
+ 1364  cd ..
+ 1365  cd 
+ 1366  cd Desktop
+ 1367  sudo mv discover-coffee-stores ~/Desktop
+ 1368  ls
+ 1369  cd discover-coffee-stores
+ 1370  code .
+ 1371  yarn dev
+ 1372  lsof -i tcp:3005
+ 1373  lsof -i tcp:3000
+ 1374  lsof -i tcp:3005
+ 1375  npx kill-port 3000
+ 1376  npx kill-port 3005
+ 1377  yarn dev
+ 1378  sudo yarn dev
+ 1379  yarn dev
+ 1380  cd 
+ 1381  cd Desktop
+ 1382  cd discover-coffee-stores
+ 1383  code .
+ 1384  yarn dev
+ 1385  cd
+ 1386  cd De
+ 1387  cd Desktop
+ 1388  cd discover-coffee-stores
+ 1389  code .
+ 1390  yarn dev
+ 1391  cd
+ 1392  cd Desktop
+ 1393  mkdir 365fitpro
+ 1394  cd Dev
+ 1395  mkdir 365fitpro
+ 1396  cd 365fitpro
+ 1397  npx create-next-app
+ 1398  cd 
+ 1399  cd Desktop
+ 1400  rm -f 365fitpro/
+ 1401  rm -fR 365fitpro/
+ 1402  ls
+ 1403  cp -r 365fitpro ~/Desktop
+ 1404  ls
+ 1405  ls -al
+ 1406  cd
+ 1407  cd Desktop
+ 1408  cd discover-coffee-stores
+ 1409  code .
+ 1410  ls
+ 1411  yarn dev
+ 1412  cd
+ 1413  cd De
+ 1414  cd Desktop
+ 1415  cd discover-coffee-stores
+ 1416  code .
+ 1417  yarn dev
+ 1418  cd Dev
+ 1419  npx create-next-app
+ 1420  cd fitnessethealth
+ 1421  code .
+ 1422  yarn dev
+ 1423  yarn add axios
+ 1424  nvm --version\n
+ 1425  nvm ls
+ 1426  nvm ls-remote\n
+ 1427  nvm install v12.22.8
+ 1428  nvm ls
+ 1429  yarn add axios
+ 1430  yarn add cheerio
+ 1431  yarn dev
+ 1432  yarn add html-react-parser
+ 1433  yarn add sitemap-links
+ 1434  yarn dev
+ 1435  yarn add styled-components
+ 1436  yarn add babel-plugin-styled-components --dev
+ 1437  yarn add lodash
+ 1438  yarn dev
+ 1439  cd ..
+ 1440  git clone git@github.com:kennedyrose/webflow-on-next.git
+ 1441  cd webflow-on-next
+ 1442  git remote add origin git@github.com:aljagne/feh.git
+ 1443  git branch -M main
+ 1444  git push -u origin main
+ 1445  cd ..
+ 1446  mv webflow-on-next feh
+ 1447  sudo mv webflow-on-next feh
+ 1448  sudo mv -v webflow-on-next feh
+ 1449  sudo mv -f webflow-on-next feh
+ 1450  cd webflow-on-next
+ 1451  ls
+ 1452  cd ..
+ 1453  sudo mv -f webflow-on-next feh
+ 1454  cd feh
+ 1455  git remote add origin git@github.com:aljagne/feh.git
+ 1456  git branch -M main
+ 1457  git push -u origin main
+ 1458  cd ..
+ 1459  cd webflow-on-next
+ 1460  git push -u origin main
+ 1461  git push -u origin
+ 1462  git remote add origin git@github.com:aljagne/feh.git
+ 1463  git remote -v
+ 1464  cd ..
+ 1465  cd feh
+ 1466  git remote add origin https://github.com/aljagne/feh.git
+ 1467  ssh -T git@github.com
+ 1468  git remote remove origin
+ 1469  git remote add origin git@github.com:aljagne/feh.git
+ 1470  git branch -M main
+ 1471  git push -u origin main
+ 1472  git remote -v
+ 1473  code .
+ 1474  yarn
+ 1475  yarn dev
+ 1476  cd ..
+ 1477  sudo cp feh ~/Desktop
+ 1478  sudo cp -r feh ~/Desktop
+ 1479  cd 
+ 1480  cd Desktop
+ 1481  mv discover-coffee-stores discover-local-gyms
+ 1482  ls
+ 1483  cd discover-local-gyms
+ 1484  git remote add origin git@github.com:aljagne/discover-local-gyms.git
+ 1485  git branch -M main
+ 1486  git push -u origin main
+ 1487  code .
+ 1488* yarn dev
+ 1489  yarn add classnames
+ 1490  node -v
