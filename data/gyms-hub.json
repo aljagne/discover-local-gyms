@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "name": "FIT4U Fitness Club",
+        "imgUrl": "https://images.unsplash.com/photo-1637666123723-1bea229bd054?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTd8fGd5bXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "websiteUrl": "https://www.google.com/maps/place/FIT4YOU+Club+de+fitness/@31.6490761,-8.0130383,17z/data=!3m1!4b1!4m5!3m4!1s0xdafee82155b6863:0xee23c3af521863c5!8m2!3d31.6490761!4d-8.0108496?hl=fr-MA",
+        "address": "La Cave Elkoutoubia, شارع المزدلفة، Marrakech 40000",
+        "neighbourhood": "Sinko Marrakekkch"
+    },
+    {
+        "id": 1,
+        "name": "Fun Fitness",
+        "imgUrl": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "websiteUrl": "http://www.funfitness.ma/",
+        "address": "Bd Prince Moulay Abdellah Marrakech",
+        "neighbourhood": "Sinko Marrakech"
+    },
+    {
+        "id": 2,
+        "name": "Club Sportif Acharaf",
+        "imgUrl": "https://images.unsplash.com/photo-1561214078-f3247647fc5e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3ltc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "websiteUrl": "https://www.facebook.com/Club.Sportif.Acharaf/?ref=aymt_homepage_panel",
+        "address": "Acharaf boulevard abou el kacem chabbi Marrakech 40100",
+        "neighbourhood": "Saada Marrakech"
+    }
+]

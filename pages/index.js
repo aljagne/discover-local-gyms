@@ -3,8 +3,18 @@ import Image from 'next/image'
 import Banner from '../components/banner'
 import Card from '../components/card'
 import styles from '../styles/Home.module.css'
+import gymsHub from '../data/gyms-hub.json'
 
-export default function Home() {
+export async function getStaticProps(context) {
+    return {
+        props: {
+            gymsHub,
+        }, //will be passed to the page component as props
+    };
+}
+
+export default function Home(props) {
+
 	const handleOnBannerBtnClick = () => {
 		console.log("hi banner Btn");
 	}
@@ -26,32 +36,23 @@ export default function Home() {
 					width={700} height={500}
 				/>
 				</div>
+                {gymsHub.length > 0 && <div> 
+                    <h2 className={styles.heading2}>Marrakech Gyms</h2>
 					<div className={styles.cardLayout}>
-					<Card
-						name="Fit4U Gym"
-						imgUrl="/static/background-1.jpg"
-						href="/gyms-hub/fit4u-gym"
-						className={styles.card}
-					/>
-					<Card
-						name="Fit4U Gym"
-						imgUrl="/static/background-1.jpg"
-						href="/gyms-hub/fit4u-gym"
-						className={styles.card}
-					/>
-					<Card
-						name="Fit4U Gym"
-						imgUrl="/static/background-1.jpg"
-						href="/gyms-hub/fit4u-gym"
-						className={styles.card}
-					/>
-					<Card
-						name="Fit4U Gym"
-						imgUrl="/static/background-1.jpg"
-						href="/gyms-hub/fit4u-gym"
-						className={styles.card}
-					/>
-				</div>
+                        {props.gymsHub.map((gymsHub) => {
+                            return (
+					            <Card
+                                    key={gymsHub.id}
+						            name={gymsHub.name}
+						            imgUrl={gymsHub.imgUrl}
+                                    href={`/gyms-hub/${gymsHub.id}`}
+						            //className={styles.card}
+					            />
+                            );
+                        })}
+				    </div>
+                </div>
+                }
 			</main>
 
 		</div>
